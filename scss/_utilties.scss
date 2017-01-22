@@ -1,0 +1,11 @@
+@media #{$small} {
+	body,html{
+		height: 100%;
+	}
+
+	.full-height{	height:100%; }
+}
+
+.full-width {
+	max-width: 1400px;
+}
